@@ -1,3 +1,4 @@
+python-telegram-bot==20.3
 echo "# connectme-bot" >> README.md
 git init
 git add README.md
